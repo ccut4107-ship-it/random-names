@@ -9,22 +9,10 @@
 	"id": "tooslow.geometwy_text",
 	"name": "geometwy text",
 	"version": "v999.999.999",
-	"developers": [
-		"HowToBasic",
-		"Too Slow!",
-		"To",
-		"NG",
-		"down",
-		"server status",
-		"3",
-		"32910931013",
-		"aac",
-		"Source error",
-		"too far back"
-	],
+	"developers": "Too Slow!",
 	"description": "uwu!!",
-	"repository": "https://0.com",
-	"tags": ["text","title","name","geometrydash","howtobasic","vegancurry","friedchicken"],
+	"repository": "https://github.com/ccut4107-ship-it/random-names",
+	"tags": ["howtobasic"],
 	
 	"settings": {
 		"owoo": {
